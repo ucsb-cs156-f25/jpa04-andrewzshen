@@ -8,7 +8,3 @@ This lab is a repeat of lab00, i.e. a simple `"Hello, World!" type assignment to
 this time you are required to use **signed commits**.
 
 See the lab description at <https://ucsb-cs156.github.io/f25/lab/jpa04.html> for more information and instructions on how to proceed.
-
-
-
-
